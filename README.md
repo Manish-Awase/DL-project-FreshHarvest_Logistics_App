@@ -1,8 +1,10 @@
 # 🍓 FreshHarvest Logistics App
+ 
 
-It is an AI-powered image classification for Freshness of Fruit  
-The APP identifies fruit type and assesses freshness.
-Just drag and drop a  photo of fruit and get an instant prediction identifies fruit type and assesses freshness.  
+It is an **AI-powered image classification tool** for determining the **freshness of fruit**.  
+The APP **identifies** the type of fruit and **evaluates** its freshness.  
+Simply **drag and drop a photo**, and you'll get an **instant prediction** of its type and freshness
+
 ---
 ### 🚨 Real-World Scenario
 FreshHarvest Logistics, a major cold storage provider in California, faced recurring issues with manual fruit inspections—leading to spoiled produce slipping through and impacting food safety.
