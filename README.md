@@ -39,7 +39,7 @@ The APP enables users to:
 ### 🧠 Model Details
 
 - **Base architecture**: ResNet50 (transfer learning)  
-- **Training data**: ~1,700 labeled images  
+- **Training data**: ~9,600 labeled images  
 - **Target classes (16)**:
   - F_Banana
   - F_Lemon
