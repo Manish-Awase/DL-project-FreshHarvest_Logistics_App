@@ -70,13 +70,15 @@ The APP enables users to:
 
 ## 🚀 Quick Start
 ---
-### 1. Install the dependencies:
+### 1.Clone the repository
+
+### 2. Install the dependencies:
      
 ```bash
   pip install -r requirements.tx
 ```
 
-### 2. Run the streamlit app:
+### 3. Run the streamlit app:
 ```bash
   streamlit run app.py
 ```
